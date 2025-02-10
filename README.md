@@ -1,5 +1,5 @@
 # Hey, I'm Rezoan Ahmed Abir 👋
-![](https://komarev.com/ghpvc/?username=REZ-OAN&color=blueviolet&&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=REZ0AN&color=blueviolet&&style=for-the-badge&abbreviated=true)
 
 
 ## 🌐 Socials:
@@ -73,13 +73,13 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=REZ-OAN&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=REZ-OAN&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=REZ-OAN&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=REZ0AN&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=REZ0AN&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=REZ0AN&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=REZ-OAN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=REZ0AN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
