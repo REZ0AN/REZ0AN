@@ -1,5 +1,10 @@
 # Hey, I'm Rezoan Ahmed Abir 👋
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=REZ0AN&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=REZ0AN&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=REZ0AN&layout=compact&theme=github_dark)
+
+
 ## 🔬 Technical Expertise
 
 ### Languages
@@ -100,11 +105,4 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=REZ0AN&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=REZ0AN&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=REZ0AN&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
