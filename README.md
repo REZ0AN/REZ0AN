@@ -2,7 +2,6 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=REZ0AN&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=REZ0AN&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=REZ0AN&layout=compact&theme=github_dark)
 
 
 ## 🔬 Technical Expertise
