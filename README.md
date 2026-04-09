@@ -108,7 +108,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=REZ0AN&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=REZ0AN&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=REZ0AN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
