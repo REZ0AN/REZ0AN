@@ -1,9 +1,5 @@
 # Hey, I'm Rezoan Ahmed Abir 👋
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=REZ0AN&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=REZ0AN&theme=github_dark)
-
-
 ## 🔬 Technical Expertise
 
 ### Languages
@@ -104,4 +100,10 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=REZ0AN&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=REZ0AN&theme=github_dark)
+
 
