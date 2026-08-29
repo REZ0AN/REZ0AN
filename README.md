@@ -4,7 +4,7 @@ Platform & Software Engineer || Building Systems That Solve Real Problems
 
 I work at two ends of the stack: LLM-powered applications (RAG pipelines, agent workflows) and the systems underneath them (Linux, virtualization, networking).
 
-- 🔭 Working on 
+- 🔭 Working on **[Lipika AI](https://lipikaai.com/)** at **[Iterosys](https://iterosys.com/)** and **[Lockton People Solutions](https://global.lockton.com/)** via **[AGT Software Partners](https://allgentech.io/)**
 - 💬 Ask me about **agentic workflows, AWS infrastructure, GKE, GCS or eBPF**
 - 📫 Reach me at **[gmail](ahmedabir.rez@gmail.com)** **[linkedin](https://www.linkedin.com/in/rezoan-abir/)**
 
