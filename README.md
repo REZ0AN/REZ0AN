@@ -6,7 +6,7 @@ I’m a Software Engineer interested in understanding and building the systems b
 
 My work spans application development, Kubernetes infrastructure, backend systems, and lower-level experiments with Linux networking and virtualization.
 
-* 🔭 Currently working on [TafuriHR](https://tafurihr.com/) at [Neural Soft](https://www.neural-soft.ai/) and **[Lipika AI](https://lipikaai.com/)** at **[Iterosys](https://iterosys.com/)**
+* 🔭 Currently working on **[TafuriHR](https://tafurihr.com/)** at **[Neural Soft](https://www.neural-soft.ai/)** and **[Lipika AI](https://lipikaai.com/)** at **[Iterosys](https://iterosys.com/)**
 * 🧪 Exploring **Distributed systems, HPC, Linux internals, Virtualization, and cloud-native infrastructure**
 * 💬 Ask me about **FastAPI, Kubernetes/GKE, Agentic workflows, AWS/GCP, or eBPF/XDP**
 * 📫 **[Email](mailto:ahmedabir.rez@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/rezoan-abir/)**
